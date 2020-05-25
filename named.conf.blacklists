@@ -1,0 +1,4 @@
+zone "kenh14.vn" {type master; file "/etc/bind/client.nowhere"; }; 
+zone "amazon.com" {type master; file "/etc/bind/client.nowhere"; }; 
+
+
